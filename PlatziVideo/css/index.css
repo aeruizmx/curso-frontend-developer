@@ -228,3 +228,19 @@ body {
     flex-direction: column;
   }
 }
+
+.not-found{
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found img{
+  width: 100px;
+}
+.not-found h1{
+  color: white;
+  font-size: 50px;
+}
